@@ -93,7 +93,8 @@ The dashboard enables stakeholders to monitor key business KPIs, evaluate region
 
 Replace this link with your dashboard screenshot:
 
-https://github.com/YourUsername/global-sales-logistics-powerbi-dashboard/blob/main/images/dashboard-1.png
+https:<img width="1146" height="648" alt="image" src="https://github.com/user-attachments/assets/747391ba-8c5e-4f4a-94f2-c2a4c724c8bb" />
+
 
 ---
 
