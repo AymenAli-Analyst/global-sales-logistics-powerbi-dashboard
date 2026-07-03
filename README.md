@@ -102,7 +102,8 @@ https:<img width="1146" height="648" alt="image" src="https://github.com/user-at
 
 Replace this link with your dashboard screenshot:
 
-https://github.com/YourUsername/global-sales-logistics-powerbi-dashboard/blob/main/images/dashboard-2.png
+https://<img width="1148" height="645" alt="image" src="https://github.com/user-attachments/assets/01a57a9d-1cdd-49b5-9a69-f210c8ba3ca3" />
+
 
 ---
 
