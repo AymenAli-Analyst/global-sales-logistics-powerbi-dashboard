@@ -1,0 +1,36 @@
+ProductID,ProductName,Category,UnitCost,UnitPrice,DateAdded,SupplierCountry,StockQuantity
+PRD-0001,Wireless Earbuds,Electronics,54.15,110.19,2023-08-31,India,194
+PRD-0002,Bluetooth Speaker,Electronics,50.32,92.46,2021-11-10,Germany,1952
+PRD-0003,Smartwatch,Electronics,27.13,73.04,2019-10-02,China,1703
+PRD-0004,Laptop Stand,Electronics,17.38,34.84,2023-03-07,USA,1139
+PRD-0005,USB-C Hub,Electronics,13.7,37.53,2025-04-19,Germany,1372
+PRD-0006,Phone Case,Electronics,22.72,43.06,2023-09-29,India,105
+PRD-0007,Power Bank,Electronics,145.42,325.82,2022-12-11,China,1183
+PRD-0008,Webcam,Electronics,78.57,127.02,2024-05-29,USA,1735
+PRD-0009,Coffee Maker,Home & Kitchen,20.69,53.45,2023-02-14,China,1561
+PRD-0010,Air Fryer,Home & Kitchen,45.39,77.92,2023-10-24,Turkey,1995
+PRD-0011,Blender,Home & Kitchen,116.28,264,2025-03-30,China,1247
+PRD-0012,Cutlery Set,Home & Kitchen,139.72,357.86,2021-12-31,China,369
+PRD-0013,Non-Stick Pan Set,Home & Kitchen,44.62,110.09,2022-10-23,Germany,12
+PRD-0014,Vacuum Cleaner,Home & Kitchen,31.3,50.1,2023-06-30,China,290
+PRD-0015,LED Desk Lamp,Home & Kitchen,112.44,310.39,2020-01-11,India,1086
+PRD-0016,Cotton T-Shirt,Apparel,36.19,71.94,2022-10-28,USA,757
+PRD-0017,Denim Jacket,Apparel,50.19,93.06,2025-05-13,Turkey,173
+PRD-0018,Running Shoes,Apparel,133.08,215.3,2025-12-05,China,1380
+PRD-0019,Wool Sweater,Apparel,16.83,34,2023-10-03,Vietnam,1243
+PRD-0020,Leather Belt,Apparel,69.1,123.17,2024-09-29,China,706
+PRD-0021,Baseball Cap,Apparel,67.34,120.98,2025-08-26,Vietnam,1079
+PRD-0022,Face Moisturizer,Beauty & Personal Care,101.73,148.89,2023-06-07,Turkey,112
+PRD-0023,Hair Dryer,Beauty & Personal Care,6.11,11.13,2021-05-15,USA,1565
+PRD-0024,Electric Toothbrush,Beauty & Personal Care,42.05,78.19,2019-02-01,Vietnam,1529
+PRD-0025,Perfume Set,Beauty & Personal Care,67.44,106.61,2024-12-21,India,471
+PRD-0026,Makeup Brush Kit,Beauty & Personal Care,77.54,199.02,2022-12-21,China,813
+PRD-0027,Yoga Mat,Sports & Outdoors,129.96,189.64,2019-03-18,Vietnam,1886
+PRD-0028,Dumbbell Set,Sports & Outdoors,16.29,29.95,2023-10-25,Turkey,828
+PRD-0029,Camping Tent,Sports & Outdoors,107.88,214.12,2020-04-16,Vietnam,42
+PRD-0030,Water Bottle,Sports & Outdoors,145.1,238.05,2025-12-06,Vietnam,1703
+PRD-0031,Cycling Helmet,Sports & Outdoors,104.99,200.17,2023-11-24,China,498
+PRD-0032,Ergonomic Chair,Office Supplies,68.17,133.66,2019-11-19,Vietnam,1782
+PRD-0033,Standing Desk,Office Supplies,49.99,93.75,2022-09-26,USA,156
+PRD-0034,Notebook Set,Office Supplies,79.02,123.24,2024-09-19,USA,1855
+PRD-0035,Wireless Mouse,Office Supplies,117.55,222.35,2020-08-27,USA,210

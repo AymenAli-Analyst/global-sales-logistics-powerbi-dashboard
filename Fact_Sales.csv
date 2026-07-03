@@ -1,0 +1,301 @@
+CustomerID,FirstName,LastName,Email,Country,City,SignupDate,CustomerSegment,Newsletter_Opt_In
+CUST-00001,Danielle,Johnson,john21@example.net,United States,New Roberttown,2020-04-01,Wholesale,Yes
+CUST-00002,Clayton,Hall,hoffmanjennifer@example.net,Canada,Robinsonshire,2021-07-03,Wholesale,Yes
+CUST-00003,Joshua,Booth,helenpeterson@example.org,Saudi Arabia,Port Matthew,2025-08-15,Retail,Yes
+CUST-00004,Christopher,Davis,cassandra07@example.net,Germany,South Christianport,2021-06-14,Retail,Yes
+CUST-00005,Maria,Montgomery,barbara10@example.net,Germany,Port Keith,2025-04-17,Wholesale,No
+CUST-00006,Christopher,Hall,jamesshawn@example.com,United Arab Emirates,West Michael,2021-06-21,Retail,Yes
+CUST-00007,Elizabeth,Miles,lynchgeorge@example.net,Saudi Arabia,East Steven,2020-10-15,Retail,Yes
+CUST-00008,Joseph,Schaefer,gabriellecameron@example.org,Australia,Port Antonio,2021-05-31,Retail,No
+CUST-00009,Leslie,Adams,robinbradley@example.net,Australia,Jasonfort,2020-02-01,Wholesale,No
+CUST-00010,Randall,Rocha,ithomas@example.org,United Arab Emirates,Juliechester,2019-06-27,Retail,No
+CUST-00011,Rachael,Ross,wendytaylor@example.com,India,Port Brandonville,2019-11-19,Retail,No
+CUST-00012,Eric,Moore,ycarlson@example.com,Germany,Riceside,2025-06-22,Wholesale,Yes
+CUST-00013,Michelle,Smith,maldonadoamanda@example.com,France,Danielchester,2021-07-22,VIP,Yes
+CUST-00014,Eric,Smith,teresa28@example.org,Saudi Arabia,Meaganhaven,2020-02-18,Retail,No
+CUST-00015,Chelsea,Hernandez,amberosborne@example.net,Australia,New Mariotown,2020-10-28,Retail,No
+CUST-00016,Daniel,Cox,john39@example.org,Brazil,Lake Toddland,2019-10-20,Retail,Yes
+CUST-00017,Tiffany,Patel,davidalvarez@example.net,United Arab Emirates,West Allison,2020-10-31,Retail,Yes
+CUST-00018,Catherine,Brandt,jenniferross@example.net,United States,Samuelhaven,2022-08-21,Retail,Yes
+CUST-00019,Shannon,Wright,morganbrianna@example.org,Saudi Arabia,North Chad,2022-07-16,Retail,Yes
+CUST-00020,Crystal,Perez,heathchad@example.org,Australia,Elizabethborough,2025-05-12,Retail,No
+CUST-00021,Amber,Cummings,esanchez@example.com,United Arab Emirates,North Collin,2023-06-09,Retail,Yes
+CUST-00022,Ryan,Henderson,dshields@example.net,India,North Richardmouth,2021-10-07,Retail,No
+CUST-00023,Lauren,Rodriguez,jameswest@example.com,Saudi Arabia,West Steven,2025-07-18,Retail,Yes
+CUST-00024,Nancy,Jones,williamsyvette@example.org,United Arab Emirates,Port Melindaburgh,2024-09-18,Retail,Yes
+CUST-00025,Richard,Olson,kbarrera@example.com,Canada,South Josephmouth,2020-03-25,Retail,No
+CUST-00026,Justin,Horton,smoore@example.org,United Kingdom,New Jillton,2025-09-08,Retail,No
+CUST-00027,Julie,Brown,hshaw@example.org,France,New Christopherburgh,2024-12-07,VIP,Yes
+CUST-00028,Casey,Jones,richarddavid@example.net,India,New Brooke,2020-04-14,Wholesale,No
+CUST-00029,Christine,Barnes,sarah35@example.org,France,Randyport,2020-04-01,Retail,No
+CUST-00030,Stephen,Hickman,smithchristine@example.net,France,North Amandahaven,2019-01-14,VIP,Yes
+CUST-00031,Joseph,Mahoney,suarezmike@example.org,United Kingdom,Bassport,2024-09-10,VIP,No
+CUST-00032,Cheryl,Archer,contrerasangela@example.net,Brazil,East Josephville,2024-09-10,Retail,No
+CUST-00033,Julia,Moore,cassandra53@example.net,India,Williamview,2020-10-23,VIP,Yes
+CUST-00034,Rebecca,Mathis,waltersmaria@example.org,Australia,West Kellieview,2025-09-19,Retail,Yes
+CUST-00035,Evan,Ramos,hhoffman@example.org,France,New Barry,2023-01-26,Retail,Yes
+CUST-00036,Mike,Tran,tanderson@example.com,United Kingdom,West Jasonbury,2025-05-12,Retail,No
+CUST-00037,Elizabeth,Gomez,vdickson@example.org,India,Port Francisco,2019-10-11,Wholesale,Yes
+CUST-00038,Lauren,Thompson,vjohnson@example.com,India,Phambury,2024-04-30,Retail,No
+CUST-00039,Joseph,Cobb,reyesbenjamin@example.com,India,East Lisa,2021-05-17,Wholesale,Yes
+CUST-00040,Steven,Torres,jeffreykeller@example.com,Saudi Arabia,Joshualand,2022-06-30,VIP,No
+CUST-00041,Tammy,Ramirez,ifrazier@example.com,India,North Natalieview,2023-11-30,Retail,Yes
+CUST-00042,Gregory,Estes,benjamin96@example.com,United Kingdom,Samuelhaven,2021-07-09,Retail,Yes
+CUST-00043,Darrell,Lam,jonathanfletcher@example.org,Germany,West Ryan,2025-08-07,Retail,Yes
+CUST-00044,Stacy,Mccall,elizabeth14@example.net,United Kingdom,Elizabethmouth,2021-07-26,VIP,No
+CUST-00045,Richard,Phillips,jamesortega@example.com,India,New Ashley,2019-10-18,Retail,No
+CUST-00046,Richard,Bass,justin69@example.net,India,Stevenmouth,2021-05-27,Retail,No
+CUST-00047,Emma,Dixon,donnacampbell@example.net,United Arab Emirates,Clarencebury,2021-09-22,Wholesale,Yes
+CUST-00048,Emily,Walker,dylanwilliams@example.com,United Kingdom,South Robertshire,2020-01-22,Retail,No
+CUST-00049,James,Horton,jross@example.net,Saudi Arabia,Port Michelleville,2023-10-01,Retail,Yes
+CUST-00050,Kimberly,Robinson,pwilliams@example.org,United States,Andersonmouth,2020-02-08,Retail,No
+CUST-00051,Elizabeth,Travis,stephanie79@example.net,Germany,Rivasside,2020-03-23,Retail,No
+CUST-00052,Sean,Moore,wcole@example.org,Saudi Arabia,Katiehaven,2020-07-28,Retail,No
+CUST-00053,Todd,Allen,sjones@example.org,United Kingdom,Matthewside,2021-10-20,Retail,Yes
+CUST-00054,Christopher,Hernandez,tbenson@example.org,India,South Rickside,2019-07-27,Wholesale,Yes
+CUST-00055,Steven,Brown,xprice@example.net,Canada,Port Nicoleshire,2021-08-26,Retail,No
+CUST-00056,Omar,Smith,kenneth66@example.net,Saudi Arabia,South Jeffrey,2021-05-25,VIP,Yes
+CUST-00057,Ryan,Johnson,elizabeth62@example.com,United States,New Amanda,2023-04-02,VIP,No
+CUST-00058,Rebecca,Vargas,millerroy@example.com,France,North Jorge,2024-02-07,Retail,No
+CUST-00059,Mark,Gibson,kathleen64@example.com,Germany,Maryfort,2020-09-26,Retail,Yes
+CUST-00060,Andrew,Ryan,jeffrey10@example.org,India,East Mary,2025-06-30,Retail,No
+CUST-00061,Christine,Allen,kcaldwell@example.org,United States,Lyonsstad,2019-08-23,Retail,Yes
+CUST-00062,Gary,Lawson,stricklandfrank@example.com,India,New Anthonyport,2019-08-21,Retail,Yes
+CUST-00063,Barbara,Odonnell,tsanders@example.org,Brazil,New Hannahbury,2019-10-08,Retail,Yes
+CUST-00064,Curtis,Barton,hoganashlee@example.org,United Kingdom,Amandastad,2023-07-12,VIP,Yes
+CUST-00065,Casey,Holland,atkinsonlynn@example.org,Brazil,Yumouth,2025-06-29,Retail,Yes
+CUST-00066,Jasmine,Graham,christina87@example.com,Brazil,Petersenshire,2023-09-14,Retail,No
+CUST-00067,Joseph,Christian,ramirezshannon@example.com,Germany,Rogersfort,2021-12-04,Retail,No
+CUST-00068,Melissa,White,michaelgreen@example.com,France,Angelahaven,2021-09-04,Retail,No
+CUST-00069,Stacy,Miller,wfreeman@example.org,Australia,Brewerfort,2024-02-16,VIP,Yes
+CUST-00070,Shane,Smith,jeffrey34@example.net,United Arab Emirates,Thomashaven,2019-02-08,Retail,Yes
+CUST-00071,Maurice,Barajas,michael74@example.com,India,Jerryborough,2019-10-28,Retail,No
+CUST-00072,Leslie,Newton,jamesrodgers@example.com,Australia,Tinaborough,2020-06-26,VIP,Yes
+CUST-00073,Kenneth,Ward,alexis82@example.com,France,North Angelaberg,2023-02-22,Retail,No
+CUST-00074,Dana,Mullins,salasaudrey@example.com,India,Alexanderburgh,2025-11-10,Retail,No
+CUST-00075,Tammy,King,ewilson@example.com,Canada,Joneston,2020-02-29,Retail,Yes
+CUST-00076,Edward,Shepherd,christopher31@example.net,Canada,Obrienbury,2025-03-16,Retail,Yes
+CUST-00077,Kimberly,James,levans@example.com,Germany,Ashleyton,2022-11-05,Retail,No
+CUST-00078,Chelsea,Singh,colleenbaker@example.org,United Arab Emirates,East Glenn,2024-09-01,Retail,Yes
+CUST-00079,Charles,Smith,enorris@example.com,Saudi Arabia,East Keithport,2020-01-14,Wholesale,Yes
+CUST-00080,Jacqueline,Gibson,sandrafrench@example.net,Australia,South Danny,2019-01-15,Wholesale,No
+CUST-00081,Jeffrey,Hernandez,margaret10@example.org,United Arab Emirates,Brookeshire,2020-10-23,Retail,No
+CUST-00082,Samantha,Gonzales,sbarker@example.com,United States,Vincentfort,2025-04-16,Retail,Yes
+CUST-00083,Samuel,George,mnavarro@example.com,United States,North Jeremyshire,2025-02-12,Wholesale,Yes
+CUST-00084,Brenda,Smith,barbara27@example.net,Canada,Moonburgh,2023-10-27,Retail,No
+CUST-00085,Wendy,Graham,ecosta@example.com,Australia,Cookville,2019-06-13,Retail,Yes
+CUST-00086,Mia,Rivera,zroberts@example.net,Australia,South Christopherview,2020-02-26,Wholesale,No
+CUST-00087,Marcus,Cordova,ahancock@example.net,Canada,Gutierrezborough,2025-12-17,VIP,Yes
+CUST-00088,April,Dean,wgarrett@example.org,Canada,West Andrea,2020-10-27,VIP,Yes
+CUST-00089,Sara,Kim,omartinez@example.net,Australia,Lake Eric,2021-01-04,Wholesale,No
+CUST-00090,Andrea,Tran,walkermaureen@example.org,France,Valentineberg,2021-10-13,Retail,Yes
+CUST-00091,Tyrone,Moran,robert77@example.org,United States,Arnoldfurt,2023-04-16,VIP,Yes
+CUST-00092,James,Greene,michellehill@example.com,United Arab Emirates,Sarahhaven,2021-03-28,Retail,Yes
+CUST-00093,Joseph,Smith,mary97@example.org,United States,Ryanstad,2021-07-02,Retail,No
+CUST-00094,Martin,Hines,ugibson@example.org,France,New Patrick,2022-09-06,VIP,No
+CUST-00095,Melissa,Jenkins,julie66@example.net,India,South Tammie,2022-12-09,Retail,No
+CUST-00096,David,Sanford,molly71@example.net,United Kingdom,Smithberg,2019-04-24,VIP,No
+CUST-00097,Robert,Pena,charlesharrington@example.com,Brazil,Cindyfurt,2021-01-01,VIP,No
+CUST-00098,Debra,Christian,ofinley@example.net,United Kingdom,Brennanton,2019-06-06,Retail,No
+CUST-00099,Christina,Young,wendy16@example.org,Saudi Arabia,South Garrettport,2022-07-08,Retail,Yes
+CUST-00100,Rebecca,Williams,carternicholas@example.org,Brazil,New Robert,2023-04-27,Retail,Yes
+CUST-00101,Erin,White,christianpitts@example.net,United States,South Roberta,2023-11-22,Retail,Yes
+CUST-00102,Douglas,Murray,steve07@example.com,Saudi Arabia,North Scott,2023-01-31,Retail,No
+CUST-00103,Michael,Matthews,dvaughn@example.com,Australia,South Melissa,2025-12-27,Retail,Yes
+CUST-00104,Daniel,James,bailey40@example.net,India,Hillshire,2022-05-15,Retail,No
+CUST-00105,Michelle,Osborne,lozanojulie@example.com,Saudi Arabia,New Laurie,2022-08-29,Retail,Yes
+CUST-00106,Jeffery,Lee,erica21@example.net,Saudi Arabia,West Kristinaton,2021-02-24,Retail,No
+CUST-00107,Bethany,Oconnor,browningmark@example.com,Brazil,East David,2020-12-13,Retail,No
+CUST-00108,Amber,Mata,maria47@example.com,United States,Lindamouth,2025-02-22,Retail,Yes
+CUST-00109,Sydney,Taylor,michelleramsey@example.com,Brazil,Christopherfurt,2023-10-27,Retail,No
+CUST-00110,Alexander,Herrera,vrichardson@example.net,United Arab Emirates,Brendastad,2024-03-19,Retail,Yes
+CUST-00111,Daniel,Hall,harveysherry@example.com,United Arab Emirates,Lake Bryan,2024-09-24,Wholesale,Yes
+CUST-00112,Madison,Blankenship,debra12@example.org,France,West Wendyville,2019-12-14,Retail,No
+CUST-00113,Colton,Clay,paulwatson@example.net,Germany,Matthewsberg,2020-01-18,Retail,Yes
+CUST-00114,Nicole,Pena,rgilbert@example.org,Canada,Jeffmouth,2021-03-26,Retail,Yes
+CUST-00115,Stephanie,Foley,pollardmichael@example.net,Brazil,Bruceview,2024-04-30,Wholesale,Yes
+CUST-00116,James,Martinez,ndavis@example.net,Saudi Arabia,North Kristinbury,2024-02-09,VIP,Yes
+CUST-00117,Vanessa,Buchanan,caseyhubbard@example.org,United Arab Emirates,Port Molly,2023-04-22,Retail,Yes
+CUST-00118,Mark,Hernandez,ramireztracey@example.org,United Kingdom,Laurenville,2019-01-23,Wholesale,Yes
+CUST-00119,Donna,Johnson,howardkristina@example.net,India,Alfredview,2020-12-21,Retail,Yes
+CUST-00120,Brian,Harmon,reesethomas@example.com,United Arab Emirates,South Williamton,2020-05-12,Retail,No
+CUST-00121,Jessica,Kerr,stephen00@example.com,India,Simmonsville,2024-12-15,Retail,No
+CUST-00122,Tracy,Browning,lammarc@example.org,India,East Joshuashire,2025-11-14,Retail,No
+CUST-00123,Amy,Nguyen,shawn96@example.org,United Arab Emirates,Port Dianaside,2020-10-13,Retail,Yes
+CUST-00124,Jennifer,Lewis,abeasley@example.com,India,Rossville,2022-02-09,Retail,Yes
+CUST-00125,Larry,Edwards,nicholas27@example.org,United Arab Emirates,Port Christopherchester,2022-01-29,Retail,No
+CUST-00126,Colin,Rodgers,angelawillis@example.net,France,Elizabethchester,2021-08-18,Retail,Yes
+CUST-00127,Michael,Ortega,uparrish@example.org,Canada,Carolinestad,2020-07-20,Retail,Yes
+CUST-00128,Dale,Romero,dianewalker@example.org,United Kingdom,Meganstad,2021-05-26,Retail,No
+CUST-00129,Danny,Ramirez,lindsaybruce@example.net,United Arab Emirates,New Sarahview,2025-01-31,Retail,Yes
+CUST-00130,Anthony,Nelson,sandra50@example.org,Saudi Arabia,New Diane,2023-09-17,VIP,Yes
+CUST-00131,Chad,Figueroa,davisalyssa@example.com,Saudi Arabia,Chavezburgh,2025-06-16,Retail,No
+CUST-00132,Mitchell,Griffith,wareeric@example.net,Saudi Arabia,Lake Christophermouth,2022-05-08,VIP,No
+CUST-00133,Ebony,Tucker,nperry@example.net,India,West Russellport,2025-01-13,Wholesale,Yes
+CUST-00134,Erika,Watkins,brandon69@example.org,Germany,East Kevinborough,2024-06-22,Retail,No
+CUST-00135,Katrina,Duran,mark07@example.net,Saudi Arabia,Thompsonfurt,2019-04-29,Retail,No
+CUST-00136,Amanda,Hall,charles06@example.org,United Arab Emirates,Morsemouth,2020-11-07,VIP,Yes
+CUST-00137,Barbara,Berry,zroberts@example.org,Brazil,Georgemouth,2023-06-02,Retail,Yes
+CUST-00138,Marilyn,Gillespie,kimdaniel@example.com,Saudi Arabia,Warrenfurt,2019-12-10,Retail,No
+CUST-00139,Monica,Reese,masonjackson@example.net,United States,New Williamstad,2021-01-14,Retail,No
+CUST-00140,Michael,Mullen,joelthomas@example.org,United Arab Emirates,New Eric,2021-05-16,Retail,No
+CUST-00141,Katherine,Jones,kmarshall@example.net,Saudi Arabia,Maldonadoshire,2022-02-13,Retail,Yes
+CUST-00142,Dawn,Downs,michelle52@example.com,United States,South Scottport,2024-04-10,Wholesale,Yes
+CUST-00143,Laura,Vargas,william47@example.com,Germany,North Miguelport,2022-12-04,Retail,Yes
+CUST-00144,Chase,Lin,gilbertwilliam@example.com,Germany,South Reginashire,2019-05-08,Retail,Yes
+CUST-00145,Denise,Morris,dmason@example.com,Canada,Port Rachelmouth,2025-12-19,Retail,No
+CUST-00146,Toni,Miller,benjaminzimmerman@example.com,Brazil,West Nathan,2020-04-13,VIP,No
+CUST-00147,Justin,Ortiz,erika05@example.org,Australia,Codyfurt,2021-11-15,Retail,Yes
+CUST-00148,Justin,Cummings,mathewaguilar@example.org,France,Kylefurt,2020-11-01,Retail,Yes
+CUST-00149,David,Fletcher,collinsnicholas@example.com,Brazil,Lake Jacqueline,2022-07-01,Retail,No
+CUST-00150,Stacey,Osborn,lucasrodney@example.com,Germany,West Kyleborough,2023-06-13,Retail,Yes
+CUST-00151,Matthew,Miranda,jeremytaylor@example.org,France,Meganville,2020-02-22,VIP,Yes
+CUST-00152,William,Fernandez,stanleynancy@example.net,United States,New Nicholas,2025-05-07,Retail,No
+CUST-00153,Francis,Guerra,jenniferwilliams@example.com,United Kingdom,South Cheryl,2023-02-26,Retail,No
+CUST-00154,Karen,Bowers,amandacollins@example.com,Saudi Arabia,West Erika,2019-02-21,Wholesale,Yes
+CUST-00155,Ashley,Alexander,kimberly88@example.com,Australia,Port James,2023-11-11,Retail,No
+CUST-00156,Cassandra,Salas,davidsonmorgan@example.net,Saudi Arabia,Lake Meghanville,2020-09-18,Retail,No
+CUST-00157,Justin,Hines,shannon82@example.com,India,East Lisastad,2025-11-27,Wholesale,No
+CUST-00158,Sarah,Perry,pshaw@example.com,Brazil,West Jeffreymouth,2023-11-20,Retail,Yes
+CUST-00159,Sarah,Combs,lacey20@example.com,France,Hortonberg,2019-12-21,VIP,Yes
+CUST-00160,Katherine,Harrison,bullockandrew@example.org,Brazil,New Shelby,2024-03-18,Retail,No
+CUST-00161,Chelsea,Henderson,john10@example.org,United States,Fowlermouth,2022-10-09,Retail,No
+CUST-00162,Bryan,Copeland,bcarlson@example.net,United Arab Emirates,Lake Douglas,2021-01-14,Retail,No
+CUST-00163,Ruben,Mendez,ashleylopez@example.net,France,New Theresaland,2022-10-26,VIP,No
+CUST-00164,Stephanie,Stephens,myerstheodore@example.net,United States,Zavalaview,2025-03-26,Retail,Yes
+CUST-00165,Julie,Kelly,cooperjessica@example.net,Germany,Port Bonniemouth,2019-12-17,Wholesale,No
+CUST-00166,Dennis,Bell,lisa27@example.net,Germany,Welchberg,2025-03-24,Retail,No
+CUST-00167,Bryan,Parsons,mjohnson@example.org,United States,North Leslie,2024-01-10,Retail,Yes
+CUST-00168,Kyle,Sanders,wking@example.net,Germany,West Michael,2023-07-15,Retail,No
+CUST-00169,Kimberly,Glenn,joshua56@example.com,India,Klinefurt,2024-04-22,Retail,No
+CUST-00170,Matthew,Lopez,zrichardson@example.net,Australia,Lauriechester,2025-03-04,Retail,No
+CUST-00171,Christian,Morrison,amymorris@example.org,France,Donnaport,2022-01-14,Retail,Yes
+CUST-00172,Sean,Robbins,hannahbell@example.org,Australia,Christinachester,2021-02-27,Retail,Yes
+CUST-00173,Joshua,Whitney,jonesdana@example.com,Germany,North Douglas,2021-02-23,Wholesale,No
+CUST-00174,Cathy,Harrington,martinezjoel@example.net,India,Michaelshire,2025-08-11,Retail,Yes
+CUST-00175,Antonio,Hernandez,xrush@example.com,France,New Devinstad,2021-03-06,Retail,Yes
+CUST-00176,Raymond,Banks,susanjohnson@example.org,United States,Holmesside,2022-05-23,Wholesale,Yes
+CUST-00177,David,Hampton,nlewis@example.com,United States,Gonzalezberg,2022-01-28,VIP,No
+CUST-00178,Melissa,Hayes,zosborn@example.net,United Arab Emirates,Elizabethland,2020-06-01,Retail,Yes
+CUST-00179,Andrea,Roberts,melissa25@example.net,France,North Tracie,2025-06-09,Retail,No
+CUST-00180,Laura,Young,jjohnson@example.net,Canada,Tannerside,2022-10-27,VIP,No
+CUST-00181,David,Henson,parkeryvonne@example.net,United Kingdom,Foxchester,2024-05-10,Wholesale,No
+CUST-00182,Madeline,Jones,dawn77@example.net,United Kingdom,Davidside,2024-07-07,Retail,Yes
+CUST-00183,Danielle,White,ryanbartlett@example.org,Canada,New Ericburgh,2020-09-13,Wholesale,No
+CUST-00184,Fernando,Donovan,michaeleverett@example.com,Germany,West Jamesside,2019-12-15,Retail,No
+CUST-00185,Joshua,Weber,shawgary@example.net,Brazil,East Donna,2025-10-19,Wholesale,Yes
+CUST-00186,Jennifer,Jacobs,bryananthony@example.org,Saudi Arabia,Debrashire,2024-11-10,Retail,No
+CUST-00187,Robert,Fowler,ismall@example.com,Brazil,Timothyfurt,2022-05-02,VIP,No
+CUST-00188,Kenneth,Jones,moorerobert@example.com,Brazil,West Catherine,2025-05-18,Retail,Yes
+CUST-00189,Larry,Higgins,theresa25@example.net,Germany,West Johnville,2021-05-01,Retail,Yes
+CUST-00190,Joseph,Wright,williamssonia@example.net,Germany,Wrightburgh,2020-10-05,Retail,Yes
+CUST-00191,Lisa,Peck,james27@example.net,United States,Jimenezport,2020-10-03,Retail,No
+CUST-00192,Tyler,Davis,pwagner@example.org,United States,Brandonport,2022-04-07,Retail,No
+CUST-00193,Troy,Khan,amitchell@example.org,United Kingdom,Andersonview,2024-02-03,Retail,No
+CUST-00194,Jessica,Gallagher,brandon09@example.net,Germany,West Angela,2025-08-12,Retail,Yes
+CUST-00195,Charles,Gordon,marcia99@example.org,France,North Phillip,2020-09-02,Wholesale,Yes
+CUST-00196,Laura,Morgan,kari39@example.net,Canada,Porterton,2019-09-02,Wholesale,No
+CUST-00197,Benjamin,Reeves,jstone@example.net,United Kingdom,West Sarah,2023-12-04,Retail,No
+CUST-00198,Lucas,Long,brittney88@example.net,France,Ericksonport,2023-07-07,Retail,No
+CUST-00199,Thomas,Smith,emily69@example.com,United Kingdom,New Thomasshire,2023-11-29,Retail,No
+CUST-00200,Becky,Griffith,ojackson@example.net,Brazil,Hernandezbury,2022-08-13,Retail,Yes
+CUST-00201,Anthony,Vaughan,leescott@example.com,Brazil,South Hannah,2021-07-26,Retail,Yes
+CUST-00202,Robert,Hampton,vsalas@example.net,Brazil,Lake Devinborough,2022-01-08,Retail,Yes
+CUST-00203,Ann,Bolton,ufox@example.org,India,Barrmouth,2024-04-11,Retail,No
+CUST-00204,Amy,Lowe,chelsea33@example.com,Brazil,Jeffreyport,2021-01-13,Retail,No
+CUST-00205,Kellie,Bush,wstewart@example.net,United Arab Emirates,Keithshire,2020-01-09,Retail,No
+CUST-00206,Erica,James,xcardenas@example.org,United Kingdom,Bobbyland,2022-08-08,VIP,No
+CUST-00207,Michael,Ramos,julie33@example.net,United Arab Emirates,Sarahview,2023-08-14,Retail,No
+CUST-00208,Derrick,Gilbert,johnsantiago@example.net,United States,Lake Jesse,2025-03-03,Retail,No
+CUST-00209,Craig,Rivera,xgarcia@example.org,Australia,New Tiffanyburgh,2021-10-30,Retail,No
+CUST-00210,Richard,Donovan,mwoods@example.com,United States,Justinton,2024-10-08,Retail,No
+CUST-00211,Rebecca,Davis,amandasharp@example.org,United States,South Nicole,2023-08-20,Retail,No
+CUST-00212,Gregory,Gillespie,lfrench@example.net,United Arab Emirates,Nancytown,2025-12-25,Retail,Yes
+CUST-00213,Kenneth,Morrison,justin88@example.com,France,Port William,2021-04-13,Retail,No
+CUST-00214,Joshua,Lamb,francisco74@example.net,United Arab Emirates,North Jill,2023-11-30,Retail,Yes
+CUST-00215,Krystal,Bradley,gregorychase@example.com,France,Robertsonland,2020-10-10,Retail,No
+CUST-00216,Richard,Davis,thomasboyle@example.org,Germany,Patrickmouth,2020-01-17,VIP,Yes
+CUST-00217,Karen,Finley,brandi90@example.com,United Kingdom,Heatherton,2024-03-05,Retail,Yes
+CUST-00218,Elizabeth,Marshall,richardshaw@example.net,France,Hannahport,2024-08-03,Retail,No
+CUST-00219,Michael,Walker,timothygibson@example.net,United Arab Emirates,Robertside,2023-08-29,VIP,Yes
+CUST-00220,Roberta,Todd,kathleenbecker@example.net,India,New Seanstad,2024-02-14,Retail,Yes
+CUST-00221,Christian,Elliott,poolerebecca@example.org,India,East Mark,2025-09-21,Wholesale,Yes
+CUST-00222,Abigail,Wilson,jenniferburns@example.net,France,Stokesmouth,2019-10-13,Wholesale,No
+CUST-00223,David,Perry,hansenemily@example.com,India,South Jonathantown,2022-10-24,Retail,Yes
+CUST-00224,Julie,Lane,hendersonisabella@example.net,France,North Valeriefort,2022-03-04,Wholesale,No
+CUST-00225,Anthony,Ortiz,katiegood@example.net,United Arab Emirates,Brooksfurt,2020-08-31,Retail,No
+CUST-00226,Shane,Stark,rbennett@example.net,India,Lake Michelle,2022-09-23,Wholesale,No
+CUST-00227,David,Haney,urice@example.org,Australia,Port Andrewport,2024-02-09,VIP,Yes
+CUST-00228,Steven,Ball,opatel@example.org,Saudi Arabia,Reedview,2025-05-31,Retail,No
+CUST-00229,Jacob,Golden,johnsondonna@example.net,Australia,East Jamieville,2019-06-28,Wholesale,No
+CUST-00230,Brittney,Griffin,sanchezbradley@example.com,Canada,New Jeff,2023-05-01,Retail,Yes
+CUST-00231,Michelle,Brown,jim95@example.net,India,Joelberg,2020-06-01,VIP,No
+CUST-00232,Valerie,Boyd,dturner@example.net,United Arab Emirates,Lake Erika,2020-02-16,Retail,No
+CUST-00233,Angela,Williams,shelly68@example.com,Canada,Russellport,2019-03-04,Retail,Yes
+CUST-00234,Nicholas,Webster,oallen@example.com,United Arab Emirates,Port Steven,2019-11-03,Wholesale,No
+CUST-00235,Brian,Gutierrez,igrant@example.com,Brazil,West James,2022-10-18,Retail,Yes
+CUST-00236,Deborah,Nielsen,christopher30@example.com,India,Nunezton,2022-09-07,Retail,No
+CUST-00237,Morgan,Lopez,timothybooth@example.com,India,Susantown,2024-06-21,Retail,Yes
+CUST-00238,Jason,Lee,burgesskaren@example.org,France,South Rose,2021-08-19,VIP,Yes
+CUST-00239,Andrea,Rowe,powens@example.com,United Kingdom,Josehaven,2023-11-13,Wholesale,Yes
+CUST-00240,Nicole,Owens,ugill@example.org,Canada,Lawrenceton,2023-12-23,Retail,Yes
+CUST-00241,Anna,Walker,allentran@example.net,Australia,Phillipsborough,2019-07-08,Wholesale,No
+CUST-00242,Mark,James,victorpena@example.net,Australia,Jonathanfort,2023-01-08,Retail,Yes
+CUST-00243,Tammy,May,umurray@example.com,Saudi Arabia,East Jennifer,2024-12-15,Retail,Yes
+CUST-00244,Tracy,Stark,warrenmary@example.org,Canada,Port Adamberg,2020-11-27,Retail,No
+CUST-00245,Megan,Hall,albertwagner@example.com,Germany,New Danafort,2025-12-13,Retail,Yes
+CUST-00246,Donna,Smith,hsmith@example.net,United Arab Emirates,Amandaport,2021-08-09,Retail,No
+CUST-00247,Andre,Li,ldrake@example.org,United States,New Eduardoborough,2021-11-11,VIP,No
+CUST-00248,Christine,King,joseph61@example.com,India,Stevensbury,2022-03-24,Retail,No
+CUST-00249,Veronica,Perez,valdezmichele@example.org,Brazil,South Nicholasside,2022-11-16,Retail,No
+CUST-00250,Thomas,Walsh,christopherbruce@example.net,United Arab Emirates,Arielville,2021-10-21,Wholesale,Yes
+CUST-00251,Patricia,Ellison,jasonparrish@example.net,United Arab Emirates,Nelsonland,2023-04-25,Retail,No
+CUST-00252,Gabrielle,Ramirez,whitemelissa@example.org,Australia,New Douglas,2025-05-31,Retail,No
+CUST-00253,Lori,Nicholson,evansanne@example.net,Saudi Arabia,Rhodesside,2019-03-31,Retail,Yes
+CUST-00254,Martin,Campos,krystalnorris@example.org,United Arab Emirates,Brianchester,2025-10-19,Wholesale,No
+CUST-00255,Jesse,Jones,unovak@example.org,Brazil,Kristenmouth,2021-07-31,Wholesale,Yes
+CUST-00256,Tracy,Kelly,rreynolds@example.net,Brazil,Millerport,2021-02-17,Retail,Yes
+CUST-00257,Lauren,Marquez,adamsnorman@example.net,United States,Lake Peter,2020-02-02,Retail,No
+CUST-00258,Michael,Davis,sean41@example.org,Brazil,East Ryanside,2019-05-17,Retail,Yes
+CUST-00259,Angela,Russell,davisangela@example.net,France,Michelletown,2020-01-05,Retail,No
+CUST-00260,Kelly,Hughes,hardyanita@example.org,Germany,Lake Oscar,2020-12-20,Retail,No
+CUST-00261,Dominic,Turner,kthomas@example.com,India,Robertfort,2024-12-14,VIP,Yes
+CUST-00262,Kirsten,Ward,jennifersimpson@example.net,United Arab Emirates,South Daniel,2021-11-18,VIP,No
+CUST-00263,Kevin,Rush,meagan65@example.com,United Kingdom,Ryanberg,2022-10-19,Retail,Yes
+CUST-00264,Kevin,Morrison,timothythompson@example.com,Germany,Kellyfort,2020-07-30,VIP,No
+CUST-00265,Tammy,Casey,nicholas65@example.org,Australia,New Wendy,2025-04-01,Retail,No
+CUST-00266,Hector,Saunders,bentonsteven@example.net,France,South Lauren,2019-02-27,Retail,No
+CUST-00267,Marie,Jones,ichambers@example.net,France,Johnberg,2023-02-18,Retail,No
+CUST-00268,Jennifer,Mccormick,colecarla@example.net,Germany,Fergusonchester,2020-03-19,Retail,No
+CUST-00269,Amy,Gibbs,jacqueline89@example.net,Germany,North Kaylastad,2025-11-03,Retail,No
+CUST-00270,Gabriel,Salazar,vrasmussen@example.com,Saudi Arabia,North Coreybury,2022-05-22,Retail,Yes
+CUST-00271,William,Stone,seanmyers@example.net,France,West Whitney,2019-06-02,VIP,Yes
+CUST-00272,Timothy,Phillips,wilsonshelia@example.org,Germany,Larrymouth,2020-02-03,VIP,Yes
+CUST-00273,Kristen,Boyd,thomas77@example.com,United Arab Emirates,West Bradleyville,2023-05-11,Retail,No
+CUST-00274,Andrew,Cooper,byrdfrank@example.net,Canada,New Greg,2025-08-02,VIP,Yes
+CUST-00275,Ethan,Castro,zhall@example.net,Brazil,East Danielle,2024-06-27,Retail,No
+CUST-00276,Ryan,Johnson,shannonjordan@example.org,Australia,East Joshua,2019-05-15,Retail,No
+CUST-00277,Jane,Flynn,lloydamanda@example.com,Australia,Jamesville,2021-08-25,Retail,No
+CUST-00278,Jose,Huffman,candice96@example.net,Australia,West Michaelmouth,2025-02-08,Retail,No
+CUST-00279,Christina,Cervantes,samantha91@example.net,United Kingdom,West David,2021-02-16,VIP,No
+CUST-00280,Kevin,White,williambarnes@example.org,Germany,Hendersonfort,2020-01-11,Retail,Yes
+CUST-00281,Cynthia,Steele,angelaburns@example.org,Australia,West Megan,2019-07-27,Retail,Yes
+CUST-00282,Christine,Glenn,washingtonjames@example.com,Germany,Ortizfort,2025-05-01,Retail,Yes
+CUST-00283,Robert,Larsen,kjackson@example.org,Germany,West Antonio,2025-07-29,Wholesale,Yes
+CUST-00284,Jeffrey,Roberts,xcunningham@example.com,Canada,New Dannyside,2022-09-07,Wholesale,Yes
+CUST-00285,Madeline,Richardson,wolfscott@example.org,Canada,Garciabury,2022-02-09,VIP,No
+CUST-00286,Kenneth,Kidd,fbaker@example.com,United Kingdom,Port Lisaborough,2020-12-15,Retail,Yes
+CUST-00287,Lisa,Matthews,michelle96@example.org,United States,Port Jamie,2020-06-23,Retail,Yes
+CUST-00288,Jamie,Brown,amanda98@example.org,Australia,Tiffanyport,2025-08-08,Retail,No
+CUST-00289,Keith,Adams,taylorkaren@example.com,Canada,West Michelleberg,2019-08-03,Wholesale,Yes
+CUST-00290,Jacqueline,Anderson,jenniferpoole@example.net,United Arab Emirates,Burnsshire,2019-09-18,Retail,No
+CUST-00291,Cynthia,Burton,ohayes@example.org,Brazil,Robertsonview,2024-10-03,Retail,Yes
+CUST-00292,Heather,Wiley,uclements@example.net,United States,Port Kimland,2025-11-24,Wholesale,No
+CUST-00293,Jessica,Ellis,melissa86@example.org,United States,Summersfort,2024-02-20,Retail,No
+CUST-00294,Joseph,Clayton,amy29@example.com,Saudi Arabia,Patriciaton,2023-07-04,Retail,No
+CUST-00295,Brandon,Sims,ksmith@example.com,United Kingdom,Smithchester,2023-12-22,VIP,No
+CUST-00296,James,Barker,nicoleturner@example.com,Canada,Lake Michaelland,2025-10-27,Retail,No
+CUST-00297,Nathan,Mckee,brettgarrett@example.net,India,South Diana,2025-07-25,Wholesale,No
+CUST-00298,Jane,Smith,lmiller@example.org,India,Smithmouth,2025-09-12,Retail,No
+CUST-00299,Lisa,Mcneil,ebenson@example.org,United Kingdom,South Christopher,2020-02-11,VIP,Yes
+CUST-00300,Linda,Garcia,nicole26@example.org,United Arab Emirates,North Alyssa,2023-10-28,VIP,No
